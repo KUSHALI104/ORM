@@ -51,7 +51,8 @@ class MoviesAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Uploading Screenshot 2025-05-09 185609.png…]()
+![Screenshot 2025-05-09 185609](https://github.com/user-attachments/assets/d44de69c-71ee-4f75-9339-556766c40751)
+
 
 
 
